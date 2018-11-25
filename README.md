@@ -5,7 +5,7 @@ https://github.com/ZexTar/concentration-game-frontend
 
 To start game server follow next steps in terminal:
 
-1 - ```git clone https://github.com/ZexTar/Z4.git```
+1 - ```git clone https://github.com/ZexTar/concentration-game-backend.git```
 
 2 - ```npm install```
 
